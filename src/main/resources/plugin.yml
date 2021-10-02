@@ -1,0 +1,6 @@
+name: JoinTitle
+version: '${project.version}'
+main: de.flashyboi.minecraft.plugins.jointitle.JoinTitle
+api-version: 1.17
+authors: [ flash_btw ]
+website: https://github.com/flashbtw
